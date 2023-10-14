@@ -1,2 +1,2 @@
 # temperature conversion
-temperature conversion from cesius to fahrenheit
+temperature conversion from celsius to fahrenheit
